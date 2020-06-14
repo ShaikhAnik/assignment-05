@@ -1,0 +1,48 @@
+.header{
+	background: red;
+	min-height: 100px;
+}
+h1{text-align: center;}
+
+.wrapper{
+ overflow: hidden;
+}
+.blog{
+	background: blue;
+	width: 70%;
+	float: left;
+	height: 300px;
+}
+.contact{
+	background: green;
+	width: 30%;
+	float: right;
+	height: 300px;
+}
+.footer{
+	background: cyan;
+	height: 80px;
+
+}
+.container2{
+	
+}
+.wrapper2{
+
+}
+.blog1{background: blue;
+	width: 33.5%;
+	float: left;
+	height: 300px;}
+.blog2{background: navy;
+	width: 33%;
+	float: left;
+	height: 300px;}
+.blog3{background: green;
+	width: 33.5%;
+	float: left;
+	height: 300px;}
+.footer2{background: cyan;
+		height: 80px;
+		clear: both;
+		}
